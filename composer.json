@@ -1,0 +1,10 @@
+{
+    "name": "mdsystems/jquery-asgradient",
+    "description": "Forked version of jquery-asGradient from https://github.com/thecreation/jquery-asGradient",
+    "type": "library",
+    "require": {
+        "components/jquery": "^3.3"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
